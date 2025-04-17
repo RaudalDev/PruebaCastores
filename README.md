@@ -16,3 +16,9 @@
 - Cargar los archivos que se encuentran en el comprimido de la carpeta despliegue
 - cambiar la cadena de conexion en el archivo Web.Config
 - Ejecutar Localhost
+
+Usuario Administrador: mrobles@inventarios.com.mx 
+Contraseña Administrador: Mr0143#adm
+
+Usuario Almacenista: jmontes@inventarios.com.mx 
+Contraseña Almacenista: Jm0244#alm
